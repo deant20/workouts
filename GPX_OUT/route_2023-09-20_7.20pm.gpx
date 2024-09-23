@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-09-23T07:48:32Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2023-09-20 7:20pm</name>
+    <trkseg>
+      <trkpt lon="118.726955" lat="32.082836"><ele>10.754674</ele><time>2023-09-20T11:20:25Z</time><extensions><speed>1.156953</speed><course>72.737562</course><hAcc>14.202101</hAcc><vAcc>10.135144</vAcc></extensions></trkpt>
+      <trkpt lon="118.726939" lat="32.082851"><ele>8.692260</ele><time>2023-09-20T11:20:26Z</time><extensions><speed>0.781681</speed><course>32.336427</course><hAcc>14.206435</hAcc><vAcc>10.129069</vAcc></extensions></trkpt>
+      <trkpt lon="118.726947" lat="32.082862"><ele>8.735528</ele><time>2023-09-20T11:20:27Z</time><extensions><speed>1.154253</speed><course>27.632001</course><hAcc>14.207709</hAcc><vAcc>10.127282</vAcc></extensions></trkpt>
+      <trkpt lon="118.726951" lat="32.082871"><ele>8.879739</ele><time>2023-09-20T11:20:28Z</time><extensions><speed>1.146568</speed><course>21.906697</course><hAcc>14.209335</hAcc><vAcc>10.125000</vAcc></extensions></trkpt>
+      <trkpt lon="118.726966" lat="32.082893"><ele>9.098943</ele><time>2023-09-20T11:20:29Z</time><extensions><speed>2.007688</speed><course>27.596367</course><hAcc>14.209774</hAcc><vAcc>10.124384</vAcc></extensions></trkpt>
+      <trkpt lon="118.726962" lat="32.082894"><ele>8.721935</ele><time>2023-09-20T11:20:30Z</time><extensions><speed>1.326257</speed><course>21.152325</course><hAcc>14.210820</hAcc><vAcc>10.122915</vAcc></extensions></trkpt>
+      <trkpt lon="118.726960" lat="32.082899"><ele>8.642141</ele><time>2023-09-20T11:20:31Z</time><extensions><speed>0.958911</speed><course>13.322872</course><hAcc>14.210301</hAcc><vAcc>10.123645</vAcc></extensions></trkpt>
+      <trkpt lon="118.726964" lat="32.082910"><ele>8.510456</ele><time>2023-09-20T11:20:32Z</time><extensions><speed>1.034495</speed><course>13.073564</course><hAcc>14.211121</hAcc><vAcc>10.122493</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
