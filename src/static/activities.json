@@ -5488,6 +5488,22 @@
 "streak": 1
 },
 {
+"run_id": 12602283645,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 8065.3,
+"moving_time": "0:12:49",
+"type": "Ride",
+"start_date": "2024-10-07 23:27:22+00:00",
+"start_date_local": "2024-10-08 07:27:22",
+"location_country": "\u6b63\u4e30\u8857, \u4e0b\u5173\u8857\u9053, \u9f13\u697c\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 210013, \u4e2d\u56fd",
+"summary_polyline": "iuzbE_zusUdCHt@FZFZPl@~@@GpAgADeBCUQu@AS@_B^{J\\sCEkBFeCRgG^_HPoEJeAv@wCP[TQ|Ak@`CcA~@YbC{@hA@fHNjCJtBLdGAtAEjFg@xESfEYdEa@x@O`@Mv@a@hBsAd@a@h@iAhAiBrBoCX[j@]X]b@Y`B]XC~@AnA@bCNh@FxB`@tG~AtDbAt@ThCb@vBh@v@N|@D|BDlG@|DDCBJCjAQbAId@?`CHtHS`EWbE_@jC[b@CvDa@|BYtAKtB_@vBOnB@d@Er@Q`AYbAa@`Ak@p@i@h@o@x@mArAgBl@q@zByCzA_BjEuFrMyOt@y@dCuBbBmA`BcAl@YbGaCnB}@xCiA|Au@bBs@lBs@~Ag@`B_@hBi@xA[bFq@J]Di@BmCb@qCj@wArAcC",
+"average_heartrate": 131.1,
+"average_speed": 10.488,
+"elevation_gain": 27.1,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 12601820106,
 "name": "\u6668\u95f4\u9a91\u884c",
 "distance": 11156.7,
