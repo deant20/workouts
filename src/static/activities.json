@@ -5870,5 +5870,21 @@
 "elevation_gain": 29.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13125103823,
+"name": "Morning Walk",
+"distance": 3804.4,
+"moving_time": "0:53:02",
+"type": "Hike",
+"start_date": "2024-12-16 01:58:22+00:00",
+"start_date_local": "2024-12-16 09:58:22",
+"location_country": "\u6fb3\u6d32\u5047\u65e5, \u516d\u72ee\u6d32, \u4e03\u661f\u533a, \u6842\u6797\u5e02, \u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a, 541001, \u4e2d\u56fd",
+"summary_polyline": "g~kyCigg`T}AvAu@l@{@f@m@d@}AdBq@p@s@~@Ur@YfAeAxB[x@oA|D_@p@k@jBUjAMhAKVuAxCgFbKiA~BkBnEGV@HBFJD`@Ab@RtAKJ?VFTGj@DXHTNPAh@H\\Lh@XRB`@R\\H`@B\\NhAZb@XNDn@^l@L`@^Z@v@Vv@Jb@Lv@J~@d@bA^\\HL?DCF[?kAHsAA{BHmHCe@CMEEG?eANy@?_Fg@{AU}@UYMCEDMJEMPC?OG_@[a@c@C?ILm@yAMe@[_BU_CKmBa@CKG_@gA?MMDCGFYVQxBoB~@q@z@w@tBcBf@]RANC|@o@v@o@l@o@j@]fCuBTKV?RJVZ",
+"average_heartrate": 99.6,
+"average_speed": 1.196,
+"elevation_gain": 18.2,
+"source": "strava",
+"streak": 2
 }
 ]
