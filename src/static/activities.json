@@ -6814,5 +6814,37 @@
 "elevation_gain": 14.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15098622730,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 1210.4,
+"moving_time": "0:07:20",
+"type": "Hike",
+"start_date": "2025-07-13 10:15:27+00:00",
+"start_date_local": "2025-07-13 18:15:27",
+"location_country": "\u6b63\u4e30\u8857, \u4e0b\u5173\u8857\u9053, \u9f13\u697c\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 210013, \u4e2d\u56fd",
+"summary_polyline": "{~zbE}cusUDtFINg@tJYpEe@v@gAQaAc@o@Q",
+"average_heartrate": 93.2,
+"average_speed": 2.751,
+"elevation_gain": 8.2,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15099369405,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 1240.4,
+"moving_time": "0:10:15",
+"type": "Hike",
+"start_date": "2025-07-13 11:14:08+00:00",
+"start_date_local": "2025-07-13 19:14:08",
+"location_country": "\u60e0\u6c11\u8def, \u4e0b\u5173\u8857\u9053, \u9f13\u697c\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, 210013, \u4e2d\u56fd",
+"summary_polyline": "irzbEo{usUE_ADy@?qBBu@E@sAr@GN",
+"average_heartrate": 86.6,
+"average_speed": 2.017,
+"elevation_gain": 19.0,
+"source": "strava",
+"streak": 1
 }
 ]
